@@ -8,3 +8,5 @@ let dogs = [
 for (let i=0; i < dogs.length; i++) {
     console.log(dogs[i].name + ' likes ' + dogs[i].likes);
 }
+
+console.log("This is a new test.")
