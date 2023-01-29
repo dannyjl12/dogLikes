@@ -11,3 +11,4 @@ for (let i=0; i < dogs.length; i++) {
 
 console.log("This is a new test.")
 console.log("More testing")
+console.log("Yet more testing")
